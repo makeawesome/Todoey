@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by kirin-mac on 26/11/2018.
+//  Created by makeawesome on 26/11/2018.
 //  Copyright © 2018 makeawesome. All rights reserved.
 //
 
